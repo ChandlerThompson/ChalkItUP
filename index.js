@@ -1,3 +1,7 @@
+//Developer: Chandler Thompson
+//Project: Chalk It Up
+//Date: 12/4/2021 
+
 //npm install chalk@4.0.0 use this to install chalk
 //node index.js use this to run chalk
 const chalk = require('chalk');
