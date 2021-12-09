@@ -4,8 +4,8 @@
 
 //npm install chalk@4.0.0 use this to install chalk
 //node index.js use this to run chalk
-const chalk = require('chalk');
- 
+const chalk = require('chalk'); // use this the setup chalk 
+// then use chalk. and what you want to change the ccolor of the text
 console.log(chalk.hex('#eeb315 ').underline('This story is about a man and his quest for Bushs Baked Beans Pizza.'));
 console.log(chalk.cyanBright('The mans name is Bill he really likes Bushs Baked Beans and now he  '));
 console.log(chalk.magenta('wants to try them on pizza. Bill decided to ask pizza places around '));
